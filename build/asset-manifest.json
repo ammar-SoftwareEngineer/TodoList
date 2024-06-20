@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c4e9770.css",
-    "main.js": "/static/js/main.a0a6c1f9.js",
-    "static/js/453.4528d904.chunk.js": "/static/js/453.4528d904.chunk.js",
-    "static/media/christmas-list.jpg": "/static/media/christmas-list.6132e98ccb9af8fca890.jpg",
-    "index.html": "/index.html",
-    "main.3c4e9770.css.map": "/static/css/main.3c4e9770.css.map",
-    "main.a0a6c1f9.js.map": "/static/js/main.a0a6c1f9.js.map",
-    "453.4528d904.chunk.js.map": "/static/js/453.4528d904.chunk.js.map"
+    "main.css": "/ammar-SoftwareEngineer/TodoList/static/css/main.1ab5c9c4.css",
+    "main.js": "/ammar-SoftwareEngineer/TodoList/static/js/main.1b178edc.js",
+    "static/js/453.4528d904.chunk.js": "/ammar-SoftwareEngineer/TodoList/static/js/453.4528d904.chunk.js",
+    "static/media/christmas-list.jpg": "/ammar-SoftwareEngineer/TodoList/static/media/christmas-list.6132e98ccb9af8fca890.jpg",
+    "index.html": "/ammar-SoftwareEngineer/TodoList/index.html",
+    "main.1ab5c9c4.css.map": "/ammar-SoftwareEngineer/TodoList/static/css/main.1ab5c9c4.css.map",
+    "main.1b178edc.js.map": "/ammar-SoftwareEngineer/TodoList/static/js/main.1b178edc.js.map",
+    "453.4528d904.chunk.js.map": "/ammar-SoftwareEngineer/TodoList/static/js/453.4528d904.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c4e9770.css",
-    "static/js/main.a0a6c1f9.js"
+    "static/css/main.1ab5c9c4.css",
+    "static/js/main.1b178edc.js"
   ]
 }
